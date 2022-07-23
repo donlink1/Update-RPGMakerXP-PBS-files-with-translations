@@ -10,7 +10,7 @@ How to translate pbs text files
     * metadata.txt
     * phone.txt
     * townmap.txt  
-4. Use online translator for the following scripts below and rename the new files with a "-2" at the end. Next move those new text files and a copy of the original pbs scripts to the "update-pbs-text-files-with-translated-lines script" folder. Then run the script in that folder to move english translations from the "-2" files to the original files. 
+4. Use online translator for the following scripts below and rename the new files with a "-2" at the end. Next move those new text files and a copy of the original pbs scripts to the same folder as the script. Then run the script to move english translations from the "-2" files to the original files. 
     * The original scripts are updated as follows:
       * abilities.txt (script separates file text line by line and then separates each line's text by the ",")
             name (the one shown to the player)
