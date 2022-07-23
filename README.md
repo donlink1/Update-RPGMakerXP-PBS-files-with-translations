@@ -1,5 +1,5 @@
 # Update-RPGMakerXP-PBS-files-with-translations
-Update PBS files in any RPG Maker XP game made in a different language with this translation tool and instruction guide
+Update PBS files in any RPG Maker XP Pokemon Essentials game made in a different language with this translation tool and instruction guide
 
 How to translate pbs text files
 
@@ -29,3 +29,4 @@ How to translate pbs text files
             trainer type desciptions (all titles a trainer can have vs the player)
         
         
+IF you want to experiment, try testing with the PBS files supplied with Pokemon Essentials. I attached them to this project for easy access.
